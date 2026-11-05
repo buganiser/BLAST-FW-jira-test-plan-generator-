@@ -1,0 +1,12 @@
+# Jira Test Plan Generator - Python Dependencies
+
+# Core
+requests>=2.31.0
+
+# Backend API
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pydantic>=2.5.0
+
+# Frontend dev (optional, for running frontend)
+# npm packages handled separately in frontend/package.json
